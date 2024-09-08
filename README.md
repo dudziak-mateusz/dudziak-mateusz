@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on improving my overall DevOps/Cloud/Programming skills&knowledge..<br>2.5 years of DevOps Engineer experience.<br>7 years of Project&Product management experience.
+Im currently working on improving my overall DevOps/Cloud/Programming skills&knowledge.<br>2.5 years of DevOps Engineer experience.<br>7 years of Project&Product management experience.
 
 
 # 💻 Tech Stack:
