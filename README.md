@@ -20,7 +20,6 @@ DevOps Engineer with 4 years of hands-on experience in cloud infrastructure, Kub
 ## 📫 Get in touch
 
 - LinkedIn: https://www.linkedin.com/in/mateuszdudziak/
-- Email: mateusz.dudziak@protonmail.com
 
 ---
 
