@@ -12,14 +12,6 @@ Im currently working on improving my overall DevOps/Cloud/Programming skills&kno
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dudziak-mateusz&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ## 📫 Get in touch
 
 - LinkedIn: [mateuszdudziak](https://www.linkedin.com/in/mateuszdudziak/)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=dudziak-mateusz&color=blueviolet&style=flat-square&label=Profile+views)
