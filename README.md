@@ -1,6 +1,6 @@
 # Hi, I'm Mateusz Dudziak 👋
 
-DevOps Engineer with 4 years of hands-on experience in cloud infrastructure, Kubernetes, and CI/CD, plus a background of 7 years in Project & Product Management.
+DevOps Engineer with 4 plus a background of 7 years in Project & Product Management.
 
 ## 🛠️ Core Stack
 
