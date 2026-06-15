@@ -2,8 +2,6 @@
 
 DevOps Engineer with 4 years of hands-on experience in cloud infrastructure, Kubernetes, and CI/CD, plus a background of 7 years in Project & Product Management.
 
-Currently focused on improving Kubernetes/Helm tooling and contributing to open-source infrastructure projects.
-
 ## 🛠️ Core Stack
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -21,7 +19,7 @@ Currently focused on improving Kubernetes/Helm tooling and contributing to open-
 
 ## 📫 Get in touch
 
-- LinkedIn: [add your link]
+- LinkedIn: https://www.linkedin.com/in/mateuszdudziak/
 - Email: mateusz.dudziak@protonmail.com
 
 ---
